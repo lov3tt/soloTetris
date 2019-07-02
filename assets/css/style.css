@@ -1,0 +1,22 @@
+body {
+    /* background-color:darkgray; */
+    display: flex;
+    background:url("../img/jonathan-petersson-a6N685qLsHQ-unsplash.jpg") repeat center;
+    background-size: cover;
+    overflow: hidden;
+    height: 100%;
+    text-align: center;
+}
+
+.player {
+    flex: 1 1 auto;
+}
+
+#tetris {
+    border: 2px solid white;
+}
+
+#userScore {
+    color: white;
+    
+}
